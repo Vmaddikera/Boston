@@ -14,5 +14,4 @@ This project predicts the median value of houses in Boston suburbs using machine
 - Input features include CRIM, RM, TAX, LSTAT, etc.  
 - User submits data via web form or API.  
 - Model predicts and displays house price.  
-- Deployable locally or on Heroku.  
 - Demonstrates end-to-end ML workflow.  
